@@ -1,5 +1,5 @@
 # POWER-BI
-
+Este repositorio contiene los ejercicios y proyectos relacionados con **POWER BI**
 # Descripción
 
 Este proyecto es una implementación de Business Intelligence utilizando Power BI sobre la base de datos AdventureWorks. Se ha desarrollado un almacén de datos, modelos de relación y jerarquías para facilitar el análisis de datos de ventas, clientes y productos.
